@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Schooll.Domain\bin\Debug\net8.0\Schooll.Domain.exe
+C:\Users\PC\source\repos\Schooll.Domain\bin\Debug\net8.0\Schooll.Domain.deps.json
+C:\Users\PC\source\repos\Schooll.Domain\bin\Debug\net8.0\Schooll.Domain.runtimeconfig.json
+C:\Users\PC\source\repos\Schooll.Domain\bin\Debug\net8.0\Schooll.Domain.dll
+C:\Users\PC\source\repos\Schooll.Domain\bin\Debug\net8.0\Schooll.Domain.pdb
+C:\Users\PC\source\repos\Schooll.Domain\obj\Debug\net8.0\Schooll.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Schooll.Domain\obj\Debug\net8.0\Schooll.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Schooll.Domain\obj\Debug\net8.0\Schooll.Domain.AssemblyInfo.cs
+C:\Users\PC\source\repos\Schooll.Domain\obj\Debug\net8.0\Schooll.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Schooll.Domain\obj\Debug\net8.0\Schooll.Domain.sourcelink.json
+C:\Users\PC\source\repos\Schooll.Domain\obj\Debug\net8.0\Schooll.Domain.dll
+C:\Users\PC\source\repos\Schooll.Domain\obj\Debug\net8.0\refint\Schooll.Domain.dll
+C:\Users\PC\source\repos\Schooll.Domain\obj\Debug\net8.0\Schooll.Domain.pdb
+C:\Users\PC\source\repos\Schooll.Domain\obj\Debug\net8.0\Schooll.Domain.genruntimeconfig.cache
+C:\Users\PC\source\repos\Schooll.Domain\obj\Debug\net8.0\ref\Schooll.Domain.dll
